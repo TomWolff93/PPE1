@@ -1,0 +1,76 @@
+#entete h2{
+	text-align: center;
+	color: white;
+}
+
+#LMbeunier h3{
+	color: white;
+	margin-top: 125px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	padding: 5px 0 5px 0;
+	font-size: 22px;
+}
+
+#LMbeunier{
+	text-align: center
+}
+
+#CVbeunier h3{
+	color: white;
+	margin-top: 125px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	padding: 5px 0 5px 0;
+	font-size: 22px;
+}
+
+#CVbeunier{
+	text-align: center;
+}
+
+#CVbeunier #cv1{
+	width: 700px;
+	margin: 0 auto;
+}
+
+
+
+#content .beunier .cvbeunier{
+	display: inline-block;
+	width: 49% 
+}
+
+
+div#content div div.beunier{
+	display: inline-block;
+	width: 48%;
+}
+
+
+
+h2{
+	padding:15px;
+	font-size:50px;
+	color:white;
+}
+
+body{
+	background: url("https://julienalour.files.wordpress.com/2013/12/wallpaper-fonds-decran-arriere-plan-pour-site-web-2-0-full-hd.jpg") ;
+	margin: 0;
+	padding: 0;
+
+}
+
+td{
+
+}
+
+footer{
+	text-align: center;
+	color: white;
+	margin-top: 75px;
+	border-top: 1px solid white;
+	padding: 5px 0 5px 0;
+	width: 100%;
+}
